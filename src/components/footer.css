@@ -1,0 +1,25 @@
+.color {
+    border: none;
+    background-color:black;
+    color: #fff;;
+}
+
+.list-group-horizontal{
+    width : 50%;
+    margin: auto;
+    border-color: black;
+}
+
+.footer{ 
+    text-align: center;
+    background-color: #101010;
+    color: #9d9d9d;
+    bottom: 0;
+    width: 100%;
+}
+
+
+/* .footer {
+    background-color: #172337;
+    padding: 20px 0px;
+} */
